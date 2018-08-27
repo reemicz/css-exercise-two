@@ -1,6 +1,6 @@
 body {
-  background-color: #ff0000;
-  color: #0000FF;
+  background-color: #FFFFFF;
+  color: #000000;
 }
 
 nav {
@@ -49,4 +49,36 @@ article {
 .container {
   margin: 0 auto;
   width: 50%;
+}
+
+figcaption {
+  font-size: 10px;
+  padding-bottom: 20px;
+}
+
+h1 {
+  font-size: 2em;
+  padding-bottom: 20px;
+}
+
+h3 {
+  font-size: 1.5em
+  padding-bottom: 20px;
+}
+
+.author {
+  font-style: italic;
+  padding-bottom: 20px;
+}
+
+p {
+  padding-bottom: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F08922 ;
 }
